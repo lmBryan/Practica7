@@ -1,0 +1,17 @@
+h1{font-size: 30px;}
+
+body{
+    font-size: 15px;
+}
+
+.destacado{
+    color: orange;
+}
+
+.principal{
+    background-color: grey;
+}
+
+p{
+    color: white;
+}
